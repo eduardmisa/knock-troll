@@ -9,9 +9,6 @@
 
 <script>
 export default {
-  head: {
-    title: "Welcome ~ Click to continue"
-  },
   data () {
     return {
       audio: new Audio()

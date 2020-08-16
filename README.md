@@ -17,4 +17,5 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Credits for audio:
+https://www.youtube.com/watch?v=ZqNpXJwgO8o
